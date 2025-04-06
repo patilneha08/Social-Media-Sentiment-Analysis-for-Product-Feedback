@@ -1,9 +1,9 @@
 # Social Media Sentiment Analysis for Product Feedback
 ## Data Nexus
 Team Members-
-Ruchi Jha
-Tanvi Takavane
-Neha Patil
+* Ruchi Jha
+* Tanvi Takavane
+* Neha Patil
 ## Introduction
 * Social media is filled with user opinions, especially when new products are released.
 * Businesses need a way to track and understand customer reactions in real time.
